@@ -3,7 +3,7 @@
 var polygonPath_South = {
 
  "삼승원남시장 1구역" : [ 
-new kakao.maps.LatLng(36.39670658654392, 127.733417090809 ), 
+new kakao.maps.LatLng(36.39671240521977, 127.7334002912419 ), 
 new kakao.maps.LatLng(36.39680912517119, 127.7332188659594 ), 
 new kakao.maps.LatLng(36.39647390131247, 127.7327134363323 ), 
 new kakao.maps.LatLng(36.39658673400963, 127.7325909003468 ), 
@@ -11,6 +11,8 @@ new kakao.maps.LatLng(36.39644315348101, 127.7323582527552 ),
 new kakao.maps.LatLng(36.39578110720218, 127.7327187148642 ), 
 new kakao.maps.LatLng(36.3960647565771, 127.7330677486122 ), 
 new kakao.maps.LatLng(36.39621084945983, 127.7331226544805 ), 
+new kakao.maps.LatLng(36.39654178332654, 127.7333388575018 ), 
+new kakao.maps.LatLng(36.39665853912257, 127.7334078275986 ), 
 ],
 
   "삼승원남시장 2구역" : [ 
